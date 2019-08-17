@@ -420,7 +420,6 @@ border-radius: 5px;
 -webkit-border-radius: 5px;
 margin-bottom: 40px;
 min-height:200px;
-text-align: center;
 }
 #contact .contact-wrapper h3 {
 color:rgb(57, 171, 111);
@@ -438,4 +437,3 @@ font-size:10px;
 color:#fff;
 text-decoration:none;
 }
-
